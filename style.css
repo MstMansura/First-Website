@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    margin-right: 5%;
+    margin-top: 5%;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    margin-right: 10px;
+  
+  
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left:%;
+    
+  }
+  .half-width img{
+    width: 99%;;
+
+  }
+  .my-work img {
+    width:33.5%
+  }
+.w22 img{
+  float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.w3 img{
+  float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+  .top-banner{
+    background-image: url("imeges/header-bg.png") ;
+   background-repeat: no-repeat;
+  }
+  section{
+    height: 80px;
+    padding-bottom: 250px;
+
+  }
+  .biography-area{
+    background-image: url(imeges/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+  
+.Link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(226, 12, 116),rgb(200, 25, 142));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+  
+
+}
